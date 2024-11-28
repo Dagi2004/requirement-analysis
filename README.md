@@ -93,4 +93,42 @@ Ensure the requirements meet stakeholder expectations, are feasible, and align w
 - Identifying and resolving any ambiguities, contradictions, or gaps.
 
 
+**Types of Requirements**
+
+1) Functional Requirement
+   -  Deals with what the system should do
+     
+   -  Deals with Behaviour and Feature of system
+     
+     Example : Booking Service , Search service , Payment Service
+
+2) Non Functional Requirements
+
+   - Focus on how the system must perform
+  
+   - Focus on peformance, usability, security
+  
+   - Also known as Non behavioural Requirements
+  
+   - Example  : The system must process each booking request within 3 seconds ,  The system must provide real-time feedback(A spinning loader appears when fetching booking data)
+
+
+**Use Case Diagrams**
+
+Use case diagrams visually represent the interactions between users (actors) and a system
+
+**Benefits of Use Case Diagrams**
+
+- Provide a clear visual representation of system functionalities.
+
+- Help in identifying and organizing system requirements.
+
+- Facilitate communication among stakeholders and development team.
+
+![Use case Diagram](alx-booking-uc.png)
+
+
+
+
+
 
