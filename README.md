@@ -129,6 +129,43 @@ Use case diagrams visually represent the interactions between users (actors) and
 
 
 
+**Acceptance Criteria**
+
+**Importance of Acceptance Criteria in Requirement Analysis**
+
+Acceptance criteria (AC) are essential in requirement analysis because they define the conditions that must be met for a feature to be considered complete and satisfactory.
+
+- Clarity: Eliminates ambiguity in requirements.
+
+- Alignment: Ensures all stakeholders agree on expectations.
+
+- Testing Basis: Acts as a foundation for test cases and validation.
+
+- Scope Control: Prevents scope creep by defining boundaries.
+
+- Quality Assurance: Guarantees deliverables meet business and user needs.
+  
+
+**Example of Acceptance Criteria for a Checkout Feature**
+
+**Payment Options:**
+
+- The system must allow users to pay via credit card, debit card, and PayPal.
+  
+-Payment processing should comply with PCI-DSS standards.
+
+**Booking Confirmation:**
+
+- After payment, users must receive a booking confirmation email with details.
+
+- Confirmation should include booking ID, payment summary.
+  
+**Error Handling:**
+
+- If payment fails, the system must display an error message and allow retry.
+
+
+
 
 
 
