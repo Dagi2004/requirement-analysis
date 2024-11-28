@@ -151,8 +151,7 @@ Acceptance criteria (AC) are essential in requirement analysis because they defi
 **Payment Options:**
 
 - The system must allow users to pay via credit card, debit card, and PayPal.
-  
--Payment processing should comply with PCI-DSS standards.
+
 
 **Booking Confirmation:**
 
